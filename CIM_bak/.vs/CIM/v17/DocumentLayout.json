@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\labelprintingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\labelprintingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|c:\\users\\sem_project_cimpc\\desktop\\program\\uilpj_usingsemidb\\cim\\cim\\box3result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\box3result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|c:\\users\\sem_project_cimpc\\desktop\\program\\uilpj_usingsemidb\\cim\\cim\\box4result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\box4result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|c:\\users\\sem_project_cimpc\\desktop\\program\\uilpj_usingsemidb\\cim\\cim\\box2result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\box2result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|c:\\users\\sem_project_cimpc\\desktop\\program\\uilpj_usingsemidb\\cim\\cim\\resultairmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\resultairmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|c:\\users\\sem_project_cimpc\\desktop\\program\\uilpj_usingsemidb\\cim\\cim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\labprintvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\labprintvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\exceldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\exceldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|c:\\users\\sem_project_cimpc\\desktop\\program\\uilpj_usingsemidb\\cim\\cim\\datemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\datemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\box1result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\box1result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\plc\\singletonplccontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\plc\\singletonplccontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CIM||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\plc\\registerplc2pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\plc\\registerplc2pc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\plc\\registerpc2plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\plc\\registerpc2plc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\plc\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\plc\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\cim\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|c:\\users\\sem_project_cimpc\\desktop\\program\\uilpj_usingsemidb\\cim\\cim\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultAirMachine.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\ResultAirMachine.cs",
+              "RelativeDocumentMoniker": "CIM\\ResultAirMachine.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\ResultAirMachine.cs",
+              "RelativeToolTip": "CIM\\ResultAirMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:07:01.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\Program.cs",
+              "RelativeDocumentMoniker": "CIM\\Program.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\Program.cs",
+              "RelativeToolTip": "CIM\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:07:00.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DateMap.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\DateMap.cs",
+              "RelativeDocumentMoniker": "CIM\\DateMap.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\DateMap.cs",
+              "RelativeToolTip": "CIM\\DateMap.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:04:50.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BOX4RESULT.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\BOX4RESULT.cs",
+              "RelativeDocumentMoniker": "CIM\\BOX4RESULT.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\BOX4RESULT.cs",
+              "RelativeToolTip": "CIM\\BOX4RESULT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:04:38.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BOX3RESULT.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\BOX3RESULT.cs",
+              "RelativeDocumentMoniker": "CIM\\BOX3RESULT.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\BOX3RESULT.cs",
+              "RelativeToolTip": "CIM\\BOX3RESULT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:04:29.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabelPrintingService.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\LabelPrintingService.cs",
+              "RelativeDocumentMoniker": "CIM\\LabelPrintingService.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\LabelPrintingService.cs",
+              "RelativeToolTip": "CIM\\LabelPrintingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:43:48.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LabPrintVar.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\LabPrintVar.cs",
+              "RelativeDocumentMoniker": "CIM\\LabPrintVar.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\LabPrintVar.cs",
+              "RelativeToolTip": "CIM\\LabPrintVar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:44:49.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BOX2RESULT.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\BOX2RESULT.cs",
+              "RelativeDocumentMoniker": "CIM\\BOX2RESULT.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\BOX2RESULT.cs",
+              "RelativeToolTip": "CIM\\BOX2RESULT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T04:03:51.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\Form1.cs",
+              "RelativeDocumentMoniker": "CIM\\Form1.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\Form1.cs",
+              "RelativeToolTip": "CIM\\Form1.cs",
+              "ViewState": "AQIAAE4DAAAAAAAAAAAiwFoDAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:44:16.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\SearchForm.cs",
+              "RelativeDocumentMoniker": "CIM\\SearchForm.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\SearchForm.cs [Design]",
+              "RelativeToolTip": "CIM\\SearchForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:59:44.581Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchForm.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\SearchForm.cs",
+              "RelativeDocumentMoniker": "CIM\\SearchForm.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\SearchForm.cs",
+              "RelativeToolTip": "CIM\\SearchForm.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAASwDsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:14:17.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EXCELDATA.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\EXCELDATA.cs",
+              "RelativeDocumentMoniker": "CIM\\EXCELDATA.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\EXCELDATA.cs",
+              "RelativeToolTip": "CIM\\EXCELDATA.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T11:12:21.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SingleTonPlcControl.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\PLC\\SingleTonPlcControl.cs",
+              "RelativeDocumentMoniker": "CIM\\PLC\\SingleTonPlcControl.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\PLC\\SingleTonPlcControl.cs",
+              "RelativeToolTip": "CIM\\PLC\\SingleTonPlcControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoEAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T03:30:49.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BOX1RESULT.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\BOX1RESULT.cs",
+              "RelativeDocumentMoniker": "CIM\\BOX1RESULT.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\BOX1RESULT.cs",
+              "RelativeToolTip": "CIM\\BOX1RESULT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:49:51.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterPc2Plc.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\PLC\\RegisterPc2Plc.cs",
+              "RelativeDocumentMoniker": "CIM\\PLC\\RegisterPc2Plc.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\PLC\\RegisterPc2Plc.cs",
+              "RelativeToolTip": "CIM\\PLC\\RegisterPc2Plc.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAcwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:00:30.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\Form1.cs",
+              "RelativeDocumentMoniker": "CIM\\Form1.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\Form1.cs [Design]",
+              "RelativeToolTip": "CIM\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:59:46.057Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\App.config",
+              "RelativeDocumentMoniker": "CIM\\App.config",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\App.config",
+              "RelativeToolTip": "CIM\\App.config",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-11T11:27:01.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\PLC\\Extensions.cs",
+              "RelativeDocumentMoniker": "CIM\\PLC\\Extensions.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\PLC\\Extensions.cs",
+              "RelativeToolTip": "CIM\\PLC\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:00:29.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CIM",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\CIM.csproj",
+              "RelativeDocumentMoniker": "CIM\\CIM.csproj",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\CIM.csproj",
+              "RelativeToolTip": "CIM\\CIM.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-17T09:47:15.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterPlc2PC.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\PLC\\RegisterPlc2PC.cs",
+              "RelativeDocumentMoniker": "CIM\\PLC\\RegisterPlc2PC.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\PLC\\RegisterPlc2PC.cs",
+              "RelativeToolTip": "CIM\\PLC\\RegisterPlc2PC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:00:56.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CIM\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\SEM_PROJECT_CIMPC\\Desktop\\Program\\UILPJ_usingSEMIDB\\CIM\\CIM\\Form1.Designer.cs",
+              "RelativeToolTip": "CIM\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:59:56.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

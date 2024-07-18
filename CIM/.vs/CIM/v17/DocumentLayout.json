@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|c:\\users\\admin\\desktop\\uil_sem\\cim\\cim\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\cim\\class\\sqllite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\class\\sqllite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\cim\\forms\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\forms\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\cim\\forms\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\forms\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\cim\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{816ED538-DCF2-4AAB-A1BA-9F5C5C34633B}|CIM\\CIM.csproj|solutionrelative:cim\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchForm.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\CIM\\Forms\\SearchForm.cs",
+              "RelativeDocumentMoniker": "CIM\\Forms\\SearchForm.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\CIM\\Forms\\SearchForm.cs",
+              "RelativeToolTip": "CIM\\Forms\\SearchForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:52:06.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\CIM\\Forms\\SearchForm.cs",
+              "RelativeDocumentMoniker": "CIM\\Forms\\SearchForm.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\CIM\\Forms\\SearchForm.cs [Design]",
+              "RelativeToolTip": "CIM\\Forms\\SearchForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:18:05.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\CIM\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "CIM\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\CIM\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "CIM\\Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T03:59:46.057Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\CIM\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "CIM\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\CIM\\Forms\\Form1.cs",
+              "RelativeToolTip": "CIM\\Forms\\Form1.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAowMcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:44:16.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlLite.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\CIM\\Class\\SqlLite.cs",
+              "RelativeDocumentMoniker": "CIM\\Class\\SqlLite.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\UIL_SEM\\CIM\\CIM\\Class\\SqlLite.cs",
+              "RelativeToolTip": "CIM\\Class\\SqlLite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:01:21.897Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
