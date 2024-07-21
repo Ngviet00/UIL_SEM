@@ -38,9 +38,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <ApplicationIcon>Logo.ico</ApplicationIcon>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="BouncyCastle.Crypto, Version=1.8.5.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
       <HintPath>..\packages\Portable.BouncyCastle.1.8.5.2\lib\net40\BouncyCastle.Crypto.dll</HintPath>
@@ -346,64 +343,64 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class\BOX1RESULT.cs" />
-    <Compile Include="Class\BOX2RESULT.cs" />
-    <Compile Include="Class\BOX3RESULT.cs" />
-    <Compile Include="Class\BOX4RESULT.cs" />
-    <Compile Include="Class\DateMap.cs" />
-    <Compile Include="Class\EXCELDATA.cs" />
-    <Compile Include="Forms\Form1.cs">
+    <Compile Include="BOX1RESULT.cs" />
+    <Compile Include="BOX2RESULT.cs" />
+    <Compile Include="BOX3RESULT.cs" />
+    <Compile Include="BOX4RESULT.cs" />
+    <Compile Include="DateMap.cs" />
+    <Compile Include="EXCELDATA.cs" />
+    <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Form1.Designer.cs">
+    <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Printer\LabelPrintingService.cs" />
-    <Compile Include="Printer\LabPrintVar.cs" />
-    <Compile Include="UserControls\LineChart.cs">
+    <Compile Include="LabelPrintingService.cs" />
+    <Compile Include="LabPrintVar.cs" />
+    <Compile Include="LineChart.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UserControls\LineChart.Designer.cs">
+    <Compile Include="LineChart.Designer.cs">
       <DependentUpon>LineChart.cs</DependentUpon>
     </Compile>
-    <Compile Include="UserControls\PieChart.cs">
+    <Compile Include="PieChart.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UserControls\PieChart.Designer.cs">
+    <Compile Include="PieChart.Designer.cs">
       <DependentUpon>PieChart.cs</DependentUpon>
     </Compile>
     <Compile Include="PLC\Extensions.cs" />
     <Compile Include="PLC\RegisterPc2Plc.cs" />
     <Compile Include="PLC\RegisterPlc2PC.cs" />
     <Compile Include="PLC\SingleTonPlcControl.cs" />
-    <Compile Include="UserControls\UCMonitorPlc.cs">
+    <Compile Include="PLC\UCMonitorPlc.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UserControls\UCMonitorPlc.Designer.cs">
+    <Compile Include="PLC\UCMonitorPlc.Designer.cs">
       <DependentUpon>UCMonitorPlc.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Class\ResultAirMachine.cs" />
-    <Compile Include="Forms\SearchForm.cs">
+    <Compile Include="ResultAirMachine.cs" />
+    <Compile Include="SearchForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\SearchForm.Designer.cs">
+    <Compile Include="SearchForm.Designer.cs">
       <DependentUpon>SearchForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Class\SqlLite.cs" />
-    <Compile Include="Class\TCPClientAirMachineHandle.cs" />
-    <Compile Include="Printer\ZebraZT411Printer.cs" />
-    <EmbeddedResource Include="Forms\Form1.resx">
+    <Compile Include="SqlLite.cs" />
+    <Compile Include="TCPClientAirMachineHandle.cs" />
+    <Compile Include="ZebraZT411Printer.cs" />
+    <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UserControls\LineChart.resx">
+    <EmbeddedResource Include="LineChart.resx">
       <DependentUpon>LineChart.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UserControls\PieChart.resx">
+    <EmbeddedResource Include="PieChart.resx">
       <DependentUpon>PieChart.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UserControls\UCMonitorPlc.resx">
+    <EmbeddedResource Include="PLC\UCMonitorPlc.resx">
       <DependentUpon>UCMonitorPlc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -416,7 +413,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="Forms\SearchForm.resx">
+    <EmbeddedResource Include="SearchForm.resx">
       <DependentUpon>SearchForm.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
@@ -452,11 +449,12 @@
     <Content Include="Image\Logo.ico" />
     <Content Include="Image\logoUIL.jpg" />
     <Content Include="Image\MSlogo.png" />
-    <Content Include="Logo.ico" />
     <None Include="Resources\logoUIL.jpg" />
     <None Include="Resources\MSlogo.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Database\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
