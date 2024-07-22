@@ -993,18 +993,18 @@ namespace CIM
                     int rowIndex = dataGridView1.Rows.Count - 1;
                     dataGridView1.Rows[0].DefaultCellStyle.ForeColor = Color.Red;
                     SqlLite.Instance.InsertSEM_DATA(data1, "Doublicate");
-                    pathcsvE = Path.Combine(CSV, data1.TOPHOUSING + "_d.CSV");
+                    pathcsvE = Path.Combine(CSV, "VNATASSEM240601-" + data1.TOPHOUSING + "_d.CSV");
                     if (File.Exists(pathcsvE))
                     {
-                        pathcsvE = Path.Combine(CSV, data1.TOPHOUSING + $"_d_{DateTime.Now.ToString("yyyyMMddHHmmss")}.CSV");
+                        pathcsvE = Path.Combine(CSV, "VNATASSEM240601-" + data1.TOPHOUSING + $"_d_{DateTime.Now.ToString("yyyyMMddHHmmss")}.CSV");
 
                     }
 
 
-                    pathcsvD = Path.Combine(CSVD, data1.TOPHOUSING + "_d.CSV");
+                    pathcsvD = Path.Combine(CSVD, "VNATASSEM240601-" + data1.TOPHOUSING + "_d.CSV");
                     if (File.Exists(pathcsvD))
                     {
-                        pathcsvD = Path.Combine(CSVD, data1.TOPHOUSING + $"_d_{DateTime.Now.ToString("yyyyMMddHHmmss")}.CSV");
+                        pathcsvD = Path.Combine(CSVD, "VNATASSEM240601-" + data1.TOPHOUSING + $"_d_{DateTime.Now.ToString("yyyyMMddHHmmss")}.CSV");
 
                     }
 
@@ -1031,8 +1031,8 @@ namespace CIM
                     SqlLite.Instance.InsertSEM_DATA(data1);
                     UpdateUI(data1);
 
-                    pathcsvE = Path.Combine(CSV, data1.TOPHOUSING + ".CSV");
-                    pathcsvD = Path.Combine(CSVD, data1.TOPHOUSING + ".CSV");
+                    pathcsvE = Path.Combine(CSV, "VNATASSEM240601-" + data1.TOPHOUSING + ".CSV");
+                    pathcsvD = Path.Combine(CSVD, "VNATASSEM240601-" + data1.TOPHOUSING + ".CSV");
                     CreateExcelFile(logFilePathALL, box1data, box2data, box3data, box4data, excelrow, false);
                 }
 
